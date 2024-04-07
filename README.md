@@ -1,3 +1,8 @@
+# This repo will modify the live twitter analysis tool to work for Bitcoin and any Bitcoin token or overlay network.
+
+
+#The following is from the original repo:
+
 # twitter
 
 ### rxcpp example of live twitter analysis
